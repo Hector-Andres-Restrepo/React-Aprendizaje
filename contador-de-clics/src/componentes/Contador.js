@@ -1,6 +1,6 @@
 import React from 'react';
 import '../hojas-de-estilos/Contador.css'
-function Contador({ numClics }){
+function Contador({ numClics }){ 
     return(
 
         <div className='contador'>
@@ -9,4 +9,4 @@ function Contador({ numClics }){
     );
 }
 
-export default Contador;
+export default Contador; 
